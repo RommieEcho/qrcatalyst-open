@@ -28,14 +28,14 @@ This open source project contains **only small, standalone components** that hav
 The components shared in this repository are presented in a standalone SvelteKit wrapper that may differ significantly from how these components are integrated, configured, or utilized within our closed-source commercial application. The architecture, data flow, state management, and component interactions demonstrated here are specifically created for this open source project and do not reflect our proprietary implementation.
 
 ### Licensing
-All code in this repository is provided under the [LICENSE NAME] license. This license applies only to the code contained within this repository and does not grant any rights to our commercial software or any proprietary components not explicitly included here.
+All code in this repository is provided under the GNU AFFERO GENERAL PUBLIC LICENSE. This license applies only to the code contained within this repository and does not grant any rights to our commercial software or any proprietary components not explicitly included here.
 
 ### No Warranty
 This software is provided "as is" without warranty of any kind. See the full license for complete terms and conditions.
 
 ---
 
-*QR Catalyst is a trademark of Aion Digital. This open source project is maintained separately from our commercial offerings.*
+*QR Catalyst is a trademark of [Axion Digital](https://axiondigital.co). This open source project is maintained separately from our commercial offerings.*
 
 ### Usage Rights:
 
